@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
