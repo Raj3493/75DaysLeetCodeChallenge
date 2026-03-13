@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Raj3493/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
